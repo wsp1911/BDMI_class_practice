@@ -1,0 +1,75 @@
+
+õz
+	/host:CPUõÈ)
+
+tf_ComputeÈ)€R
+
+tf_Compute€RÀL
+
+tf_ComputeÀL¤^
+
+tf_Compute¤^
+¬?¬?"õ¬?tf.constantHÀÀ{PàÖü"Sõ¬?__call__HÀÜÀ‹P€‘­„QZ
+tracing_count1Z!
+tf_function_calltraced-nonXla",õ¬?TFE_Py_ExecuteCancelableHàˆ‘º8PÀ’è­";õ¬?'EagerExecute: __inference___call___1143H ³Ï8P âˆ—"@õ¬?,EagerLocalExecute: __inference___call___1143HÀÊ‚Ğ8PÀ›­–"2õ¬?EagerCopyToDeviceAndAddCacheKeyH€îˆÑ8PÀû"?õ¬?-TensorHandle::GetResourceHandleInfo WaitReadyHÀÂÌÔ8PÀÏ$"?õ¬?-TensorHandle::GetResourceHandleInfo WaitReadyH ’¢Ö8Pà§"?õ¬?-TensorHandle::GetResourceHandleInfo WaitReadyHà€×8PÀš"?õ¬?-TensorHandle::GetResourceHandleInfo WaitReadyHÀÇë×8P "0õ¬?ValidateInputTypeAndPlacementH ë™•PPàš½"Eõ¬?EagerKernelExecuteH » ˜PPÀ”ÍZ
+	step_name0Z
+group_id0"Jõ¬?FunctionRunH€ê›PPà¬ï•Z
+id-1885622448156362072Z
+group_id0")õ¬?TFE_DeleteTensorHandleH€Åı£SPàÏÕ")õ¬?TFE_DeleteTensorHandleH€·•İUPÀê’"õ¬?tf.constantH ˆêçYP Ø¢"(õ¬?TFE_DeleteTensorHandleH€ÊÛıYP€ŸI"+õ¬?TFE_Py_FastPathExecute_CHàùØ‘ZP Œ–\"(õ¬?TFE_DeleteTensorHandleHàéìšZP "$õ¬?TFE_DeleteTensorHandleHàˆ¶›Z"+õ¬?EagerExecute: LogicalAndH ›Œ ZPÀìš"0õ¬?EagerLocalExecute: LogicalAndH ºÕ ZP ÀË"/õ¬?ValidateInputTypeAndPlacementHà¤è£ZPàÜ*"4õ¬?EagerKernelExecuteH€Ñ·¤ZPà×	Z
+group_id0"_õ¬?
+LogicalAndH€ì¥§ZPà‰Z"
+	long_nameLogicalAnd:LogicalAndZ
+group_id0Z
+is_eager1"+õ¬?TFE_Py_FastPathExecute_CH€’Ÿ°[P€ÁŞ")õ¬?EagerExecute: IdentityHàÈº[P õ".õ¬?EagerLocalExecute: IdentityHà²¿º[P€Š¾"/õ¬?ValidateInputTypeAndPlacementHÀ‚•¼[P ÷6"4õ¬?EagerKernelExecuteHàãü¼[P€¤èZ
+group_id0"Xõ¬?IdentityH ¦Ì¾[P ¬OZ
+	long_nameIdentity:IdentityZ
+group_id0Z
+is_eager1"+õ¬?TFE_Py_FastPathExecute_CHàéßÅ[Pà„î"õ¬?tf.constantHÀãµì[Pàæè"õ¬?tf.constantH €ûø[P ı™	"(õ¬?TFE_DeleteTensorHandleHÀôš\PàÜ*"õ¬?tf.constantH ”÷…\PÀ‰Ü"(õ¬?TFE_DeleteTensorHandleH€Œ‰\Pà§"+õ¬?TFE_Py_ExecuteCancelableHÀ½¯\PÀùï"-õ¬?EagerExecute: WriteSummaryH –ÿ\P Ñû	"2õ¬?EagerLocalExecute: WriteSummaryH€¾‘‘\PÀ©é	"/õ¬?ValidateInputTypeAndPlacementH€’ó‘\PÀš"4õ¬?EagerKernelExecuteH Ô‘’\PàøÜZ
+group_id0"eõ¬?WriteSummaryH€›í’\PàïâZ&
+	long_nameWriteSummary:WriteSummaryZ
+group_id0Z
+is_eager1"(õ¬?TFE_DeleteTensorHandleH€‹œ\P€ê0"(õ¬?TFE_DeleteTensorHandleH ·Ğœ\P€µ"$õ¬?TFE_DeleteTensorHandleH€”ûœ\"õ¬?tf.constantHàÀ¬ \Pà¹†"(õ¬?TFE_DeleteTensorHandleH€‘ä¤\P€µ"(õ¬?TFE_DeleteTensorHandleHÀ•¡¥\PÀ¹U"(õ¬?TFE_DeleteTensorHandleHàÇÓ®\PÀ„="$õ¬?TFE_DeleteTensorHandleH ëÙ¯\"cõ¤^ExecutorState::ProcessH ÅÑÉQP òÌZ
+id-1885622448156362072Z
+iter_num0Z
+group_id0"qõ¤^ReadVariableOpHÀ“¶ÛQP óÛZ0
+	long_name#add_1/ReadVariableOp:ReadVariableOpZ
+group_id0Z
+is_eager0"cõ¤^ExecutorState::ProcessHà˜†àQPà¹†Z
+id-1885622448156362072Z
+iter_num0Z
+group_id0"sõ¤^ReadVariableOpH ¼ŒáQPÀ¹UZ3
+	long_name&MatMul_1/ReadVariableOp:ReadVariableOpZ
+group_id0Z
+is_eager0"cõ€RExecutorState::ProcessH€ı„ÙQPàüìZ
+id-1885622448156362072Z
+iter_num0Z
+group_id0"rõ€RReadVariableOpH »ÈÛQPÀËÉZ1
+	long_name$MatMul/ReadVariableOp:ReadVariableOpZ
+group_id0Z
+is_eager0"Sõ€RMatMulH ß°ßQP€Õ¥Z
+	long_nameMatMul:MatMulZ
+group_id0Z
+is_eager0"Nõ€RAddV2HàŒõæQP€¶ÜZ
+	long_name	add:AddV2Z
+group_id0Z
+is_eager0"Uõ€RSigmoidH€øšîQP€ÔaZ
+	long_nameSigmoid:SigmoidZ
+group_id0Z
+is_eager0"Uõ€RMatMulHÀĞ¹ïQP µÉZ
+	long_nameMatMul_1:MatMulZ
+group_id0Z
+is_eager0"Põ€RAddV2HÀÌŞñQP€óªZ
+	long_nameadd_1:AddV2Z
+group_id0Z
+is_eager0"Wõ€RSigmoidH€ÄÆóQP€µZ
+	long_nameSigmoid_1:SigmoidZ
+group_id0Z
+is_eager0"cõÈ)ExecutorState::ProcessH ì…ŞQPàËúZ
+id-1885622448156362072Z
+iter_num0Z
+group_id0"oõÈ)ReadVariableOpH ³’àQPà°ŒZ.
+	long_name!add/ReadVariableOp:ReadVariableOpZ
+group_id0Z
+is_eager0"RõÀLExecutorDoneCallbackHÀ‚»÷QPÀûZ
+id-1885622448156362072Z
+group_id0

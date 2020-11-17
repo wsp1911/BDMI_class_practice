@@ -1,0 +1,85 @@
+
+˜õ’
+	/host:CPUõÈ)
+
+tf_ComputeÈ)€R
+
+tf_Compute€RÀL
+
+tf_ComputeÀL€-
+
+tf_Compute€-¤^
+
+tf_Compute¤^
+¬?¬?"õ¬?tf.constantHÀ¸£ïP ¨©"Tõ¬?__call__HàíÒÆPÀŞÉ‚ËZ
+tracing_count1Z!
+tf_function_calltraced-nonXla"Sõ¬?__call__H ìßƒPÀÎĞø9Z
+tracing_count1Z!
+tf_function_calltraced-nonXla"Sõ¬?__call__HÀ›ç·NPÀØüŠ8Z
+tracing_count1Z!
+tf_function_calltraced-nonXla"-õ¬?TFE_Py_ExecuteCancelableH Éû¨˜PÀƒäÙ6";õ¬?&EagerExecute: __inference___call___969H€ÑêÓ˜P ÜÉ«6"@õ¬?+EagerLocalExecute: __inference___call___969H »ÌÕ˜PÀíª©6"3õ¬?EagerCopyToDeviceAndAddCacheKeyHÀÍñØ˜P€¸ä"@õ¬?-TensorHandle::GetResourceHandleInfo WaitReadyH š°â˜Pàûs"@õ¬?-TensorHandle::GetResourceHandleInfo WaitReadyHÀËæ˜P "@õ¬?-TensorHandle::GetResourceHandleInfo WaitReadyH€ÙÕç˜P Â"@õ¬?-TensorHandle::GetResourceHandleInfo WaitReadyHà¨«é˜Pà§"1õ¬?ValidateInputTypeAndPlacementHà—ûÖÉP êá"Fõ¬?EagerKernelExecuteH€ÉéÚÉP è¥¢Z
+	step_name0Z
+group_id0"Jõ¬?FunctionRunHÀ™ÒàÉPàè‚†Z
+id-878716870744090879Z
+group_id0"*õ¬?TFE_DeleteTensorHandleH€ƒöƒĞPàÂ€"*õ¬?TFE_DeleteTensorHandleH á¬âÒPà„î"õ¬?tf.constantH€Çÿ‰İPàŒø^"*õ¬?TFE_DeleteTensorHandleHÀõ¦àİP µÉ",õ¬?TFE_Py_FastPathExecute_CH€Œ÷«ŞP ÅÔA")õ¬?TFE_DeleteTensorHandleH ÛŸÃŞP "%õ¬?TFE_DeleteTensorHandleH€ÁÄÄŞ",õ¬?EagerExecute: LogicalAndHà€®ÏŞPÀ÷œ"1õ¬?EagerLocalExecute: LogicalAndH ø•ÑŞPÀå¨"1õ¬?ValidateInputTypeAndPlacementHÀœ¯ÖŞP Ë˜"5õ¬?EagerKernelExecuteH€É¯ØŞPàªŞZ
+group_id0"`õ¬?
+LogicalAndH€•ÛİŞP€†ãZ"
+	long_nameLogicalAnd:LogicalAndZ
+group_id0Z
+is_eager1"-õ¬?TFE_Py_FastPathExecute_CHàæ×³ßPÀŠıä"*õ¬?EagerExecute: IdentityH€´ø¿ßP€ŞŸ"/õ¬?EagerLocalExecute: IdentityH€éÀßPà›"0õ¬?ValidateInputTypeAndPlacementH ÚÁßPà§"5õ¬?EagerKernelExecuteH€°ÂßPÀ’ÖZ
+group_id0"Yõ¬?IdentityHà•ÂÃßPÀîmZ
+	long_nameIdentity:IdentityZ
+group_id0Z
+is_eager1",õ¬?TFE_Py_FastPathExecute_CHàÕ¹«áPÀ²ã
+"õ¬?tf.constantHÀ°åšâPà•Ó"õ¬?tf.constantH€¸£ÄâPÀ—ª "*õ¬?TFE_DeleteTensorHandleH€åºáâPàå¤"õ¬?tf.constantH€ãçîâP í­"*õ¬?TFE_DeleteTensorHandleHàÓüâP€¤è",õ¬?TFE_Py_ExecuteCancelableH ˆú‘ãPÀéíF".õ¬?EagerExecute: WriteSummaryH€šòªãPÀƒã+"3õ¬?EagerLocalExecute: WriteSummaryH€Âµ¬ãPà³*"0õ¬?ValidateInputTypeAndPlacementH€¶¤³ãP ág"5õ¬?EagerKernelExecuteH ëí´ãPà­ª!Z
+group_id0"fõ¬?WriteSummaryHà†¾ºãP€Ô–Z&
+	long_nameWriteSummary:WriteSummaryZ
+group_id0Z
+is_eager1"*õ¬?TFE_DeleteTensorHandleH€û’ÛãP€¾’")õ¬?TFE_DeleteTensorHandleH Ï¥İãPÀ„=")õ¬?TFE_DeleteTensorHandleHÀûôİãP "õ¬?tf.constantH ÒñíãP Šï"*õ¬?TFE_DeleteTensorHandleHàã¸…äP Ÿú"*õ¬?TFE_DeleteTensorHandleHàñÑ‰äP üÕ"*õ¬?TFE_DeleteTensorHandleH æ×«äP Ÿú"%õ¬?TFE_DeleteTensorHandleHà›Ò®ä"cõ¤^ExecutorState::ProcessHÀÄİ—ÌP Ä¦Z
+id-878716870744090879Z
+iter_num0Z
+group_id0"ˆõ¤^ReadVariableOpHÀÉüšÌP€©‡ZF
+	long_name9StatefulPartitionedCall/add/ReadVariableOp:ReadVariableOpZ
+group_id0Z
+is_eager0"Rõ€RExecutorDoneCallbackH åÂÌP àØZ
+id-878716870744090879Z
+group_id0"cõ€-ExecutorState::ProcessHÀÒö›ÌP€©‡Z
+id-878716870744090879Z
+iter_num0Z
+group_id0"Šõ€-ReadVariableOpHÀíäÌPàØÏZH
+	long_name;StatefulPartitionedCall_1/add/ReadVariableOp:ReadVariableOpZ
+group_id0Z
+is_eager0"cõÈ)ExecutorState::ProcessHÀ©ï”ÌP ëZ
+id-878716870744090879Z
+iter_num0Z
+group_id0"õÈ)ReadVariableOpHÀÀ‚šÌPà‚›ZK
+	long_name>StatefulPartitionedCall_1/MatMul/ReadVariableOp:ReadVariableOpZ
+group_id0Z
+is_eager0"cõÀLExecutorState::ProcessHÀÇ¿÷ËPÀ†ú#Z
+id-878716870744090879Z
+iter_num0Z
+group_id0"cõÀLExecutorState::ProcessH€öüœÌPÀù¤%Z
+id-878716870744090879Z
+iter_num0Z
+group_id0"‹õÀLReadVariableOpH ö­ÌPÀÔÃZI
+	long_name<StatefulPartitionedCall/MatMul/ReadVariableOp:ReadVariableOpZ
+group_id0Z
+is_eager0"lõÀLMatMulH „Ç¢ÌP ù¾Z2
+	long_name%StatefulPartitionedCall/MatMul:MatMulZ
+group_id0Z
+is_eager0"gõÀLAddV2Hà©Õ®ÌP ­“Z.
+	long_name!StatefulPartitionedCall/add:AddV2Z
+group_id0Z
+is_eager0"oõÀLSigmoidHàñ¥¶ÌPÀ÷çZ4
+	long_name'StatefulPartitionedCall/Sigmoid:SigmoidZ
+group_id0Z
+is_eager0"nõÀLMatMulH€Æ¸¸ÌPàå¤Z4
+	long_name'StatefulPartitionedCall_1/MatMul:MatMulZ
+group_id0Z
+is_eager0"iõÀLAddV2H å²ºÌPàÂ€Z0
+	long_name#StatefulPartitionedCall_1/add:AddV2Z
+group_id0Z
+is_eager0"põÀLSigmoidH€’ä½ÌP€µZ6
+	long_name)StatefulPartitionedCall_1/Sigmoid:SigmoidZ
+group_id0Z
+is_eager0

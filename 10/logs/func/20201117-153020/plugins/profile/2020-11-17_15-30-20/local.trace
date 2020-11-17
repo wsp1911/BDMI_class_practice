@@ -1,0 +1,77 @@
+
+gõb
+	/host:CPUõÈ)
+
+tf_ComputeÈ)ÀL
+
+tf_ComputeÀL¤^
+
+tf_Compute¤^
+¬?¬?"õ¬?tf.constantH ”©³Pà Õ""Tõ¬?__call__HÀæ¯ÏP ¿«ì¨Z
+tracing_count1Z!
+tf_function_calltraced-nonXla"Tõ¬?__call__HÀ¶ÛÒoPà¥ˆ«‡Z
+tracing_count1Z!
+tf_function_calltraced-nonXla"Tõ¬?__call__H æ”¯øPà¯ÞÿZ
+tracing_count1Z!
+tf_function_calltraced-nonXla"-õ¬?TFE_Py_ExecuteCancelableH€ÏÑ¡–P€¬öð";õ¬?&EagerExecute: __inference___call___865Hàæ­–P€€ã"@õ¬?+EagerLocalExecute: __inference___call___865H€®µ®–P È¤â"3õ¬?EagerCopyToDeviceAndAddCacheKeyHà©©¯–PÀº™"@õ¬?-TensorHandle::GetResourceHandleInfo WaitReadyHàù¯²–PÀÏ$"@õ¬?-TensorHandle::GetResourceHandleInfo WaitReadyH ¼ÿ³–PÀš"@õ¬?-TensorHandle::GetResourceHandleInfo WaitReadyH ÛÈ´–P€µ"@õ¬?-TensorHandle::GetResourceHandleInfo WaitReadyHà”žµ–PÀš"0õ¬?ValidateInputTypeAndPlacementH Õ¢¯ªP€Ôa"Fõ¬?EagerKernelExecuteHÀŠì°ªPàâóÞZ
+	step_name0Z
+group_id0"Jõ¬?FunctionRunHà©æ²ªPÀ®ÜnZ
+id-2427646759842286730Z
+group_id0"*õ¬?TFE_DeleteTensorHandleHÀ®ÙÓ­P€ÝÛ"*õ¬?TFE_DeleteTensorHandleH€žÅ‘±Pàîž"õ¬?tf.constantHÀ÷óÃ¶P —ù")õ¬?TFE_DeleteTensorHandleHÀ…Âà¶P€ê0",õ¬?TFE_Py_FastPathExecute_CHÀû¸ò¶Pàä•"%õ¬?TFE_DeleteTensorHandleH ë›ú¶")õ¬?TFE_DeleteTensorHandleH€ýÞú¶P ",õ¬?EagerExecute: LogicalAndHÀÕýû¶PàÌ¾	"1õ¬?EagerLocalExecute: LogicalAndHàÌ´ü¶P È	"0õ¬?ValidateInputTypeAndPlacementH€·–þ¶PàÜ*"5õ¬?EagerKernelExecuteHàÈÙþ¶Pà±ÐZ
+group_id0"`õ¬?
+LogicalAndHÀ·ø€·P€º·Z"
+	long_nameLogicalAnd:LogicalAndZ
+group_id0Z
+is_eager1",õ¬?TFE_Py_FastPathExecute_CHà›™·Pàæè"*õ¬?EagerExecute: IdentityHÀÅÆ·PÀá˜"/õ¬?EagerLocalExecute: IdentityH€àÒ·P€ÇŒ"0õ¬?ValidateInputTypeAndPlacementH€ÿ›ž·P "5õ¬?EagerKernelExecuteHà¦®ž·Pàå¤Z
+group_id0"Yõ¬?IdentityH€žåž·P ÷6Z
+	long_nameIdentity:IdentityZ
+group_id0Z
+is_eager1",õ¬?TFE_Py_FastPathExecute_CHÀÜÙ¢·P€óª"õ¬?tf.constantH€ÌÀÁ·P€ïÏ"õ¬?tf.constantH€èòÉ·Pàó½")õ¬?TFE_DeleteTensorHandleH€•ÕÎ·P€µ"õ¬?tf.constantHàÊ€Ó·PÀÔÃ")õ¬?TFE_DeleteTensorHandleHÀÖ·Pà§",õ¬?TFE_Py_ExecuteCancelableH€ÕïÚ·P€ªË".õ¬?EagerExecute: WriteSummaryH ÈËÝ·P€ÚÄ	"3õ¬?EagerLocalExecute: WriteSummaryHàâ×Ý·PÀ¿¸	"0õ¬?ValidateInputTypeAndPlacementH œ­Þ·PÀš"5õ¬?EagerKernelExecuteH ÑÅÞ·PÀ¶¾Z
+group_id0"fõ¬?WriteSummaryH€ãˆß·PÀâÜZ&
+	long_nameWriteSummary:WriteSummaryZ
+group_id0Z
+is_eager1")õ¬?TFE_DeleteTensorHandleHàÅ–è·PàÜ*")õ¬?TFE_DeleteTensorHandleHÀ×Ùè·Pà§"%õ¬?TFE_DeleteTensorHandleHà™øè·"õ¬?tf.constantHÀòÇë·Pàîž")õ¬?TFE_DeleteTensorHandleH€Ç‹ï·P€µ")õ¬?TFE_DeleteTensorHandleHà£¶ï·PàÜ*")õ¬?TFE_DeleteTensorHandleHàÐ˜ô·P€ê0"%õ¬?TFE_DeleteTensorHandleHàïáô·"dõ¤^ExecutorState::ProcessH Ê“Î«PàÔôZ
+id-2427646759842286730Z
+iter_num0Z
+group_id0"ˆõ¤^ReadVariableOpH ûÐÐ«PÀ·ZF
+	long_name9StatefulPartitionedCall/add/ReadVariableOp:ReadVariableOpZ
+group_id0Z
+is_eager0"dõÈ)ExecutorState::ProcessHÀØ³«P€´‰Z
+id-2427646759842286730Z
+iter_num0Z
+group_id0"õÈ)ReadVariableOpHÀ©óÃ«Pà¹†ZK
+	long_name>StatefulPartitionedCall_1/MatMul/ReadVariableOp:ReadVariableOpZ
+group_id0Z
+is_eager0"dõÈ)ExecutorState::ProcessH€³ÏÇ«P ˜½$Z
+id-2427646759842286730Z
+iter_num0Z
+group_id0"ŠõÈ)ReadVariableOpHÀ¡½È«P€ŸIZI
+	long_name<StatefulPartitionedCall/MatMul/ReadVariableOp:ReadVariableOpZ
+group_id0Z
+is_eager0"lõÈ)MatMulHÀ”èÉ«P ä³Z2
+	long_name%StatefulPartitionedCall/MatMul:MatMulZ
+group_id0Z
+is_eager0"gõÈ)AddV2HÀ²¢Ý«P ¤™Z.
+	long_name!StatefulPartitionedCall/add:AddV2Z
+group_id0Z
+is_eager0"nõÈ)SigmoidH€Îòâ«P€‰zZ4
+	long_name'StatefulPartitionedCall/Sigmoid:SigmoidZ
+group_id0Z
+is_eager0"nõÈ)MatMulH Î£ä«P€¨ÃZ4
+	long_name'StatefulPartitionedCall_1/MatMul:MatMulZ
+group_id0Z
+is_eager0"iõÈ)AddV2H ÊÈæ«PÀØžZ0
+	long_name#StatefulPartitionedCall_1/add:AddV2Z
+group_id0Z
+is_eager0"põÈ)SigmoidH §¤è«P€µZ6
+	long_name)StatefulPartitionedCall_1/Sigmoid:SigmoidZ
+group_id0Z
+is_eager0"SõÈ)ExecutorDoneCallbackHà„âì«P€©‡Z
+id-2427646759842286730Z
+group_id0"dõÀLExecutorState::ProcessH ‡âÉ«PÀÔÃZ
+id-2427646759842286730Z
+iter_num0Z
+group_id0"ŠõÀLReadVariableOpHàþÉË«PÀ£†ZH
+	long_name;StatefulPartitionedCall_1/add/ReadVariableOp:ReadVariableOpZ
+group_id0Z
+is_eager0
